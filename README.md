@@ -1,16 +1,32 @@
-<h1 align="center">Hi 👋, We’re MKG Developers</h1>
-<h3 align="center">A passionate frontend development duo from Pakistan</h3>
+<h1 align="center">Hey There 👋, We’re MKG Developers</h1>
+<h3 align="center">A Dynamic Frontend Dev Duo from Pakistan</h3>
 
-- 🔭 We’re currently working on [a zombie shooter game](https://mkgdeveopers.github.io/zombie-shooter)  
-- 🌱 We’re leveling up our skills in **React JS**  
-- 📫 Reach out to us at **mkgdevelopers.team@gmail.com**  
+- 🌱 We’re sharpening our skills in **React JS**  
+- 📫 Reach us at **mkgdevelopers.team@gmail.com**  
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
-  <!-- Add your team’s social links here, e.g., Twitter, LinkedIn, etc., if you have them -->
+  <!-- Add team socials like Twitter, LinkedIn, or GitHub here -->
+  <a href="https://github.com/mkgdevelopers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Our Tools & Tech Stack:</h3>
+<h3 align="left">Our Projects:</h3>
+<p align="left">
+  We’ve built a mix of cool frontend projects that showcase our creativity and coding chops. Check out what we’ve been up to:
+</p>
+<ul>
+  <li><b>Netflix Clone</b> - A sleek, front-end replica of Netflix with a polished UI that streams style (no pun intended).</li>
+  <li><b>Statistic Project</b> - An ambitious full-stack idea for sharing statistic notes with user posts and unique features—still a work in progress due to time constraints.</li>
+  <li><b>Amazon Clone</b> - A front-end take on Amazon’s shopping vibe, packed with clean design and layout finesse.</li>
+  <li><b>Puzzle</b> - A fun emoji-matching tile game built with HTML, CSS, and JS—test your skills and have a laugh!</li>
+  <li><b>Zombie Shooter</b> - An addictive game where you defend a castle from zombie hordes by clicking them into oblivion.</li>
+  <li><b>MKGdevelopers</b> - Our hub with a README.md, setting the stage for a pro GitHub presence.</li>
+</ul>
+<p align="left">
+  (Plus, we’ve got a private project cooking—stay tuned for more!)
+</p>
+
+<h3 align="left">Our Tech Stack:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -27,7 +43,7 @@
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">About Us:</h3>
+<h3 align="left">Who We Are:</h3>
 <p align="left">
-  We’re a dynamic team of two frontend enthusiasts, blending creativity and code to build awesome web experiences. From crafting pixel-perfect designs to diving into interactive projects like our zombie shooter game, we thrive on pushing the boundaries of what’s possible with modern tech.
+  We’re a tight-knit team of two frontend fanatics who love turning ideas into interactive web experiences. From cloning big-name sites to crafting quirky games, we’re all about blending design and code with a dash of fun. Stick around—we’ve got more in the works!
 </p>
