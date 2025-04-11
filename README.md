@@ -1,8 +1,7 @@
 <h1 align="center">Hey There 👋, We’re MKG Developers</h1>
 <h3 align="center">A Dynamic Frontend Dev Duo from Pakistan</h3>
 
-- 🌱 We’re sharpening our skills in **React JS**  
-- 📫 Reach us at **mkgdevelopers.team@gmail.com**  
+- 🌱 We’re sharpening our skills in **React JS**   
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
