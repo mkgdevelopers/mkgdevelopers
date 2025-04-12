@@ -19,10 +19,9 @@
   <li><b>Amazon Clone</b> - A front-end take on Amazon’s shopping vibe, packed with clean design and layout finesse.</li>
   <li><b>Puzzle</b> - A fun emoji-matching tile game built with HTML, CSS, and JS—test your skills and have a laugh!</li>
   <li><b>Zombie Shooter</b> - An addictive game where you defend a castle from zombie hordes by clicking them into oblivion.</li>
-  <li><b>MKGdevelopers</b> - Our hub with a README.md, setting the stage for a pro GitHub presence.</li>
 </ul>
 <p align="left">
-  (Plus, we’ve got a private project cooking—stay tuned for more!)
+  and many more in future...
 </p>
 
 <h3 align="left">Our Tech Stack:</h3>
